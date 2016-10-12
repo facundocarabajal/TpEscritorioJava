@@ -33,7 +33,7 @@ private JLabel lblfoto;
 
 	private JPanel contentPane;
 		/**
-	 * Launch the application.
+	 * Launch the application. facundocarabajal
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
